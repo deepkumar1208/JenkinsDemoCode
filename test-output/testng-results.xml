@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-29T19:38:07 IST" name="Default suite" finished-at="2021-10-29T19:39:02 IST" duration-ms="55480">
+    <groups>
+    </groups>
+    <test started-at="2021-10-29T19:38:07 IST" name="Default test" finished-at="2021-10-29T19:39:02 IST" duration-ms="55480">
+      <class name="com.assignments.Aman_Kumar">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.assignments.Aman_Kumar@1de76cc7]" started-at="2021-10-29T19:38:07 IST" name="setUp" finished-at="2021-10-29T19:38:20 IST" duration-ms="13191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="State()[pri:1, instance:com.assignments.Aman_Kumar@1de76cc7]" started-at="2021-10-29T19:38:20 IST" name="State" description="Select State" finished-at="2021-10-29T19:38:23 IST" duration-ms="3373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- State -->
+        <test-method signature="City()[pri:2, instance:com.assignments.Aman_Kumar@1de76cc7]" started-at="2021-10-29T19:38:23 IST" name="City" description="Select City" finished-at="2021-10-29T19:38:27 IST" duration-ms="3232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- City -->
+        <test-method signature="Hobbies()[pri:3, instance:com.assignments.Aman_Kumar@1de76cc7]" started-at="2021-10-29T19:38:27 IST" name="Hobbies" description="Select Hobbies" finished-at="2021-10-29T19:38:27 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hobbies -->
+        <test-method signature="Text_Field()[pri:4, instance:com.assignments.Aman_Kumar@1de76cc7]" started-at="2021-10-29T19:38:27 IST" name="Text_Field" description="Filling the first name, last name and Email-id" finished-at="2021-10-29T19:38:29 IST" duration-ms="2493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Text_Field -->
+        <test-method signature="Radio_btn()[pri:5, instance:com.assignments.Aman_Kumar@1de76cc7]" started-at="2021-10-29T19:38:29 IST" name="Radio_btn" description="Verify the Radio button" finished-at="2021-10-29T19:38:32 IST" duration-ms="2324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Radio_btn -->
+        <test-method signature="Subjects()[pri:6, instance:com.assignments.Aman_Kumar@1de76cc7]" started-at="2021-10-29T19:38:32 IST" name="Subjects" description="Enter Subjects" finished-at="2021-10-29T19:38:50 IST" duration-ms="18445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subjects -->
+        <test-method signature="Choose_file()[pri:7, instance:com.assignments.Aman_Kumar@1de76cc7]" started-at="2021-10-29T19:38:50 IST" name="Choose_file" description="Choose File to upload" finished-at="2021-10-29T19:38:52 IST" duration-ms="2103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Choose_file -->
+        <test-method signature="Phone_no()[pri:8, instance:com.assignments.Aman_Kumar@1de76cc7]" started-at="2021-10-29T19:38:52 IST" name="Phone_no" description="Enter Phone Number" finished-at="2021-10-29T19:38:54 IST" duration-ms="2139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Phone_no -->
+        <test-method signature="Date_of_Birth()[pri:9, instance:com.assignments.Aman_Kumar@1de76cc7]" started-at="2021-10-29T19:38:54 IST" name="Date_of_Birth" description="Select date of Birth" finished-at="2021-10-29T19:39:00 IST" duration-ms="5694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Date_of_Birth -->
+        <test-method signature="Submit()[pri:10, instance:com.assignments.Aman_Kumar@1de76cc7]" started-at="2021-10-29T19:39:00 IST" name="Submit" description="Submit Button" finished-at="2021-10-29T19:39:02 IST" duration-ms="2220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit -->
+      </class> <!-- com.assignments.Aman_Kumar -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
